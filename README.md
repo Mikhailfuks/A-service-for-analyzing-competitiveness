@@ -1,0 +1,1 @@
+# A-service-for-analyzing-competitiveness
